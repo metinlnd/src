@@ -77,4 +77,7 @@ public abstract void eat();//final and abstract never can be used in a same line
                 ", color='" + color + '\'' +
                 '}';
     }
+
+
+
 }
